@@ -3,7 +3,7 @@
 This project compares several machine learning models such as linear regression, Lasso Decision tree, Random forest regression and XGBoost regression.
 
 steps to run the model </br>
--> download the dataset and images folder
--> download Location-based-real-estate-price-prediction.ipynb file
+-> download the dataset and images folder </br>
+-> download Location-based-real-estate-price-prediction.ipynb file </br>
 -> run the .ipynb file 
 
